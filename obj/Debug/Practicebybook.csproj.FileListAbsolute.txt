@@ -1,0 +1,10 @@
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\bin\Debug\Practicebybook.exe.config
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\bin\Debug\Practicebybook.exe
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\bin\Debug\Practicebybook.pdb
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.Form1.resources
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.Properties.Resources.resources
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.exe
+C:\Users\Stefan\source\repos\Practicebybook\Practicebybook\obj\Debug\Practicebybook.pdb
